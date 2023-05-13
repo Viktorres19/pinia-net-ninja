@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### 7th lesson was about Vue Devtools
+
+```sh
+I installed valid version of main Vue Devtools
+```
