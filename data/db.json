@@ -1,18 +1,8 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "title": "play gloomhaven",
-      "isFav": true
-    },
-    {
-      "title": "eat some pinapples",
-      "isFav": false,
-      "id": 4
-    },
-    {
       "title": "Hello",
-      "isFav": true,
+      "isFav": false,
       "id": 5123
     },
     {
