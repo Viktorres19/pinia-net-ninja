@@ -33,3 +33,9 @@ npm run build
 ```sh
 I installed valid version of main Vue Devtools
 ```
+
+### To use json server
+
+```sh
+json-server -w ./data/db.json
+```
